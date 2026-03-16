@@ -1,0 +1,5 @@
+{
+  "name": "Veo Text Overlay",
+  "description": "Generate videos with Veo and add custom text overlays.",
+  "requestFramePermissions": []
+}
